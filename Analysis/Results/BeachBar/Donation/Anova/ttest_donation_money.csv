@@ -1,0 +1,2 @@
+DV,Group1,Group2,n1,n2,mean1,mean2,sd1,sd2,t_value,p_value,significant_(p<0.05)
+DonationMoney,Hippie,Glam,50,46,34.06,48.71739130434783,33.198481647109546,39.08205785749787,-1.9719740526323253,0.0517287660841535,False
